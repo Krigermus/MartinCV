@@ -6,6 +6,6 @@
 
 <%@include file = "header.jsp" %>
 
-index
-
+<h1> index </h1>
+    
 <%@include file = "footer.jsp" %>
