@@ -4,6 +4,6 @@
     Author     : Martin Frederiksen
 --%>
 
-footer
+Copyrights
     </body>
 </html>

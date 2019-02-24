@@ -14,4 +14,9 @@
         <link rel="stylesheet" type="text/css" href="CSS/style.css">
     </head>
     <body>
-        header
+        <ul>
+            <li>About Me</li>
+            <li>Resume</li>
+            <li>Portfolio</li>
+            <li>Contact me</li>
+        </ul>
